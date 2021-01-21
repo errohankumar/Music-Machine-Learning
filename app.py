@@ -26,7 +26,6 @@ from kneed import KneeLocator
 import spotipy
 import streamlit as st
 import SessionState
-import config
 
 
 from spotipy.oauth2 import SpotifyOAuth
