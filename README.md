@@ -1,5 +1,6 @@
 ## Web App to cluster Spotify Playlist tracks
-The app has been developed using Python K-Medoids and deployed on Heroku.
+The app has been developed using Python and Sklearn's K-Medoids algorithm to cluster music. The user can select their own playlist from spotify. 
+The app has been deployed on Heroku.
 
 Following are the dependencies:
 
